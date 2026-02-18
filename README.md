@@ -29,6 +29,14 @@ If you don’t have requirements.txt, you can usually run with standard library 
 python run.py --force --seed 42 --count 1 --roast normal
 ```
 
+Or use `--seed random` for a frictionless run:
+
+```bash
+python run.py --force --seed random --count 1 --roast normal
+```
+
+Using `--seed random` prints the resolved seed so you can rerun it.
+
 Then open:
 - output/share_card_42.txt
 
