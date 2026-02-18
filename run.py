@@ -4,6 +4,7 @@ import argparse
 import json
 import random
 import shutil
+import time
 from pathlib import Path
 
 from engine.bracket import build_empty_bracket, load_bracket, write_bracket
@@ -158,7 +159,7 @@ def pool_archetype(scores: dict[str, float], t: dict[str, float]) -> str:
 
 def parse_args() -> argparse.Namespace:
 	p = argparse.ArgumentParser(description="Signal March Madness Madness - bracket personality test.")
-	p.add_argument("--seed", type=int, default=42, help="Seed for bracket generation.")
+	p.add_argument("--seed", type=str, default="42", help="Seed for bracket generation (integer or 'random').")
 	p.add_argument("--sims", type=int, default=400, help="Monte Carlo sims for collapse risk.")
 	p.add_argument(
 		"--roast",
@@ -177,6 +178,17 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> None:
 	args = parse_args()
+	
+	# Resolve seed: support "random" or integer
+	if args.seed == "random":
+		resolved_seed = int(time.time() * 1000) % 1_000_000_000
+		print(f"[Signal] Generated random seed: {resolved_seed}")
+	else:
+		try:
+			resolved_seed = int(args.seed)
+		except ValueError:
+			raise ValueError(f"--seed must be an integer or 'random', got: {args.seed}")
+	
 	out_dir = ROOT / args.out
 	if args.pool and args.pool > 0:
 		args.count = args.pool
@@ -186,7 +198,7 @@ def main() -> None:
 	results = []
 	print("Generated:")
 	for i in range(max(1, args.count)):
-		seed_i = args.seed + i
+		seed_i = resolved_seed + i
 		bracket_path = out_dir / f"bracket_{seed_i}.json"
 		report_json = out_dir / f"signal_report_{seed_i}.json"
 		report_md = out_dir / f"signal_report_{seed_i}.md"
