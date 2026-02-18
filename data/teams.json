@@ -1,0 +1,642 @@
+[
+	{
+		"id": "T001",
+		"name": "Northbridge University",
+		"seed": 1,
+		"momentum": 0.90,
+		"hype": 0.82,
+		"pressure": 0.76,
+		"chaos": 0.20,
+		"brand_code": 0.92
+	},
+	{
+		"id": "T002",
+		"name": "Silver Coast State",
+		"seed": 1,
+		"momentum": 0.86,
+		"hype": 0.78,
+		"pressure": 0.72,
+		"chaos": 0.18,
+		"brand_code": 0.88
+	},
+	{
+		"id": "T003",
+		"name": "St. Alder College",
+		"seed": 1,
+		"momentum": 0.88,
+		"hype": 0.74,
+		"pressure": 0.70,
+		"chaos": 0.22,
+		"brand_code": 0.85
+	},
+	{
+		"id": "T004",
+		"name": "Granite Valley Tech",
+		"seed": 1,
+		"momentum": 0.84,
+		"hype": 0.80,
+		"pressure": 0.74,
+		"chaos": 0.24,
+		"brand_code": 0.86
+	},
+	{
+		"id": "T005",
+		"name": "Lakeview Institute",
+		"seed": 2,
+		"momentum": 0.82,
+		"hype": 0.76,
+		"pressure": 0.68,
+		"chaos": 0.24,
+		"brand_code": 0.84
+	},
+	{
+		"id": "T006",
+		"name": "Red Hollow University",
+		"seed": 2,
+		"momentum": 0.80,
+		"hype": 0.70,
+		"pressure": 0.66,
+		"chaos": 0.26,
+		"brand_code": 0.81
+	},
+	{
+		"id": "T007",
+		"name": "Copper Ridge State",
+		"seed": 2,
+		"momentum": 0.78,
+		"hype": 0.74,
+		"pressure": 0.64,
+		"chaos": 0.28,
+		"brand_code": 0.79
+	},
+	{
+		"id": "T008",
+		"name": "Eastport College",
+		"seed": 2,
+		"momentum": 0.83,
+		"hype": 0.77,
+		"pressure": 0.70,
+		"chaos": 0.22,
+		"brand_code": 0.86
+	},
+	{
+		"id": "T009",
+		"name": "Summit Ridge University",
+		"seed": 3,
+		"momentum": 0.78,
+		"hype": 0.68,
+		"pressure": 0.62,
+		"chaos": 0.30,
+		"brand_code": 0.74
+	},
+	{
+		"id": "T010",
+		"name": "Harborline Tech",
+		"seed": 3,
+		"momentum": 0.75,
+		"hype": 0.72,
+		"pressure": 0.60,
+		"chaos": 0.28,
+		"brand_code": 0.71
+	},
+	{
+		"id": "T011",
+		"name": "Pinecrest State",
+		"seed": 3,
+		"momentum": 0.73,
+		"hype": 0.66,
+		"pressure": 0.58,
+		"chaos": 0.32,
+		"brand_code": 0.69
+	},
+	{
+		"id": "T012",
+		"name": "Royal Plains College",
+		"seed": 3,
+		"momentum": 0.76,
+		"hype": 0.70,
+		"pressure": 0.61,
+		"chaos": 0.29,
+		"brand_code": 0.72
+	},
+	{
+		"id": "T013",
+		"name": "Westmoor University",
+		"seed": 4,
+		"momentum": 0.72,
+		"hype": 0.66,
+		"pressure": 0.58,
+		"chaos": 0.34,
+		"brand_code": 0.68
+	},
+	{
+		"id": "T014",
+		"name": "Beacon Hill State",
+		"seed": 4,
+		"momentum": 0.70,
+		"hype": 0.64,
+		"pressure": 0.56,
+		"chaos": 0.36,
+		"brand_code": 0.66
+	},
+	{
+		"id": "T015",
+		"name": "Cardinal Heights College",
+		"seed": 4,
+		"momentum": 0.71,
+		"hype": 0.62,
+		"pressure": 0.55,
+		"chaos": 0.33,
+		"brand_code": 0.64
+	},
+	{
+		"id": "T016",
+		"name": "Twin River Tech",
+		"seed": 4,
+		"momentum": 0.69,
+		"hype": 0.67,
+		"pressure": 0.57,
+		"chaos": 0.35,
+		"brand_code": 0.65
+	},
+	{
+		"id": "T017",
+		"name": "Elmwood University",
+		"seed": 5,
+		"momentum": 0.66,
+		"hype": 0.60,
+		"pressure": 0.52,
+		"chaos": 0.38,
+		"brand_code": 0.61
+	},
+	{
+		"id": "T018",
+		"name": "Ironwood State",
+		"seed": 5,
+		"momentum": 0.64,
+		"hype": 0.58,
+		"pressure": 0.50,
+		"chaos": 0.40,
+		"brand_code": 0.59
+	},
+	{
+		"id": "T019",
+		"name": "Meridian College",
+		"seed": 5,
+		"momentum": 0.65,
+		"hype": 0.62,
+		"pressure": 0.51,
+		"chaos": 0.37,
+		"brand_code": 0.57
+	},
+	{
+		"id": "T020",
+		"name": "Highgate Tech",
+		"seed": 5,
+		"momentum": 0.63,
+		"hype": 0.59,
+		"pressure": 0.49,
+		"chaos": 0.41,
+		"brand_code": 0.58
+	},
+	{
+		"id": "T021",
+		"name": "Arrowhead University",
+		"seed": 6,
+		"momentum": 0.62,
+		"hype": 0.56,
+		"pressure": 0.48,
+		"chaos": 0.42,
+		"brand_code": 0.55
+	},
+	{
+		"id": "T022",
+		"name": "Brookstone State",
+		"seed": 6,
+		"momentum": 0.60,
+		"hype": 0.54,
+		"pressure": 0.47,
+		"chaos": 0.44,
+		"brand_code": 0.53
+	},
+	{
+		"id": "T023",
+		"name": "Cascade College",
+		"seed": 6,
+		"momentum": 0.61,
+		"hype": 0.57,
+		"pressure": 0.46,
+		"chaos": 0.43,
+		"brand_code": 0.52
+	},
+	{
+		"id": "T024",
+		"name": "Marlowe Tech",
+		"seed": 6,
+		"momentum": 0.59,
+		"hype": 0.55,
+		"pressure": 0.45,
+		"chaos": 0.45,
+		"brand_code": 0.50
+	},
+	{
+		"id": "T025",
+		"name": "Ashbury University",
+		"seed": 7,
+		"momentum": 0.58,
+		"hype": 0.52,
+		"pressure": 0.44,
+		"chaos": 0.46,
+		"brand_code": 0.49
+	},
+	{
+		"id": "T026",
+		"name": "Stonebridge State",
+		"seed": 7,
+		"momentum": 0.56,
+		"hype": 0.50,
+		"pressure": 0.43,
+		"chaos": 0.48,
+		"brand_code": 0.47
+	},
+	{
+		"id": "T027",
+		"name": "Northgate College",
+		"seed": 7,
+		"momentum": 0.57,
+		"hype": 0.53,
+		"pressure": 0.42,
+		"chaos": 0.47,
+		"brand_code": 0.46
+	},
+	{
+		"id": "T028",
+		"name": "Sterling Tech",
+		"seed": 7,
+		"momentum": 0.55,
+		"hype": 0.51,
+		"pressure": 0.44,
+		"chaos": 0.49,
+		"brand_code": 0.45
+	},
+	{
+		"id": "T029",
+		"name": "Fairview University",
+		"seed": 8,
+		"momentum": 0.54,
+		"hype": 0.50,
+		"pressure": 0.41,
+		"chaos": 0.50,
+		"brand_code": 0.44
+	},
+	{
+		"id": "T030",
+		"name": "Ridgeway State",
+		"seed": 8,
+		"momentum": 0.52,
+		"hype": 0.48,
+		"pressure": 0.40,
+		"chaos": 0.52,
+		"brand_code": 0.42
+	},
+	{
+		"id": "T031",
+		"name": "Clearwater College",
+		"seed": 8,
+		"momentum": 0.53,
+		"hype": 0.51,
+		"pressure": 0.39,
+		"chaos": 0.51,
+		"brand_code": 0.43
+	},
+	{
+		"id": "T032",
+		"name": "Bellmont Tech",
+		"seed": 8,
+		"momentum": 0.51,
+		"hype": 0.49,
+		"pressure": 0.40,
+		"chaos": 0.53,
+		"brand_code": 0.41
+	},
+	{
+		"id": "T033",
+		"name": "Kingsford University",
+		"seed": 9,
+		"momentum": 0.50,
+		"hype": 0.46,
+		"pressure": 0.38,
+		"chaos": 0.54,
+		"brand_code": 0.40
+	},
+	{
+		"id": "T034",
+		"name": "Graystone State",
+		"seed": 9,
+		"momentum": 0.48,
+		"hype": 0.45,
+		"pressure": 0.37,
+		"chaos": 0.55,
+		"brand_code": 0.39
+	},
+	{
+		"id": "T035",
+		"name": "Orchard College",
+		"seed": 9,
+		"momentum": 0.49,
+		"hype": 0.47,
+		"pressure": 0.36,
+		"chaos": 0.56,
+		"brand_code": 0.38
+	},
+	{
+		"id": "T036",
+		"name": "Windermere Tech",
+		"seed": 9,
+		"momentum": 0.47,
+		"hype": 0.44,
+		"pressure": 0.37,
+		"chaos": 0.57,
+		"brand_code": 0.37
+	},
+	{
+		"id": "T037",
+		"name": "Oakridge University",
+		"seed": 10,
+		"momentum": 0.46,
+		"hype": 0.43,
+		"pressure": 0.35,
+		"chaos": 0.58,
+		"brand_code": 0.36
+	},
+	{
+		"id": "T038",
+		"name": "Seabrook State",
+		"seed": 10,
+		"momentum": 0.45,
+		"hype": 0.42,
+		"pressure": 0.34,
+		"chaos": 0.59,
+		"brand_code": 0.35
+	},
+	{
+		"id": "T039",
+		"name": "Larkspur College",
+		"seed": 10,
+		"momentum": 0.44,
+		"hype": 0.41,
+		"pressure": 0.33,
+		"chaos": 0.60,
+		"brand_code": 0.34
+	},
+	{
+		"id": "T040",
+		"name": "Juniper Tech",
+		"seed": 10,
+		"momentum": 0.43,
+		"hype": 0.40,
+		"pressure": 0.34,
+		"chaos": 0.58,
+		"brand_code": 0.33
+	},
+	{
+		"id": "T041",
+		"name": "Whitmore University",
+		"seed": 11,
+		"momentum": 0.42,
+		"hype": 0.39,
+		"pressure": 0.33,
+		"chaos": 0.60,
+		"brand_code": 0.32
+	},
+	{
+		"id": "T042",
+		"name": "Foxhall State",
+		"seed": 11,
+		"momentum": 0.41,
+		"hype": 0.38,
+		"pressure": 0.32,
+		"chaos": 0.61,
+		"brand_code": 0.31
+	},
+	{
+		"id": "T043",
+		"name": "Dunmore College",
+		"seed": 11,
+		"momentum": 0.40,
+		"hype": 0.37,
+		"pressure": 0.31,
+		"chaos": 0.62,
+		"brand_code": 0.30
+	},
+	{
+		"id": "T044",
+		"name": "Hawthorne Tech",
+		"seed": 11,
+		"momentum": 0.39,
+		"hype": 0.36,
+		"pressure": 0.32,
+		"chaos": 0.63,
+		"brand_code": 0.29
+	},
+	{
+		"id": "T045",
+		"name": "Glenhaven University",
+		"seed": 12,
+		"momentum": 0.38,
+		"hype": 0.36,
+		"pressure": 0.30,
+		"chaos": 0.64,
+		"brand_code": 0.28
+	},
+	{
+		"id": "T046",
+		"name": "Briarwood State",
+		"seed": 12,
+		"momentum": 0.37,
+		"hype": 0.35,
+		"pressure": 0.29,
+		"chaos": 0.65,
+		"brand_code": 0.27
+	},
+	{
+		"id": "T047",
+		"name": "Cedarfield College",
+		"seed": 12,
+		"momentum": 0.36,
+		"hype": 0.34,
+		"pressure": 0.28,
+		"chaos": 0.66,
+		"brand_code": 0.26
+	},
+	{
+		"id": "T048",
+		"name": "Millstone Tech",
+		"seed": 12,
+		"momentum": 0.35,
+		"hype": 0.33,
+		"pressure": 0.29,
+		"chaos": 0.64,
+		"brand_code": 0.25
+	},
+	{
+		"id": "T049",
+		"name": "Harborcrest University",
+		"seed": 13,
+		"momentum": 0.34,
+		"hype": 0.32,
+		"pressure": 0.28,
+		"chaos": 0.66,
+		"brand_code": 0.24
+	},
+	{
+		"id": "T050",
+		"name": "Valeforge State",
+		"seed": 13,
+		"momentum": 0.33,
+		"hype": 0.31,
+		"pressure": 0.27,
+		"chaos": 0.67,
+		"brand_code": 0.23
+	},
+	{
+		"id": "T051",
+		"name": "Lowland College",
+		"seed": 13,
+		"momentum": 0.32,
+		"hype": 0.30,
+		"pressure": 0.26,
+		"chaos": 0.68,
+		"brand_code": 0.22
+	},
+	{
+		"id": "T052",
+		"name": "Pinegate Tech",
+		"seed": 13,
+		"momentum": 0.31,
+		"hype": 0.29,
+		"pressure": 0.27,
+		"chaos": 0.69,
+		"brand_code": 0.21
+	},
+	{
+		"id": "T053",
+		"name": "Redcrest University",
+		"seed": 14,
+		"momentum": 0.30,
+		"hype": 0.28,
+		"pressure": 0.26,
+		"chaos": 0.70,
+		"brand_code": 0.20
+	},
+	{
+		"id": "T054",
+		"name": "Meadowbrook State",
+		"seed": 14,
+		"momentum": 0.29,
+		"hype": 0.27,
+		"pressure": 0.25,
+		"chaos": 0.71,
+		"brand_code": 0.19
+	},
+	{
+		"id": "T055",
+		"name": "Stonehaven College",
+		"seed": 14,
+		"momentum": 0.28,
+		"hype": 0.26,
+		"pressure": 0.24,
+		"chaos": 0.72,
+		"brand_code": 0.18
+	},
+	{
+		"id": "T056",
+		"name": "Crestline Tech",
+		"seed": 14,
+		"momentum": 0.27,
+		"hype": 0.25,
+		"pressure": 0.25,
+		"chaos": 0.73,
+		"brand_code": 0.17
+	},
+	{
+		"id": "T057",
+		"name": "Southport University",
+		"seed": 15,
+		"momentum": 0.26,
+		"hype": 0.24,
+		"pressure": 0.23,
+		"chaos": 0.74,
+		"brand_code": 0.16
+	},
+	{
+		"id": "T058",
+		"name": "Timberline State",
+		"seed": 15,
+		"momentum": 0.25,
+		"hype": 0.23,
+		"pressure": 0.22,
+		"chaos": 0.75,
+		"brand_code": 0.15
+	},
+	{
+		"id": "T059",
+		"name": "Bluewater College",
+		"seed": 15,
+		"momentum": 0.24,
+		"hype": 0.22,
+		"pressure": 0.21,
+		"chaos": 0.76,
+		"brand_code": 0.14
+	},
+	{
+		"id": "T060",
+		"name": "Goldleaf Tech",
+		"seed": 15,
+		"momentum": 0.23,
+		"hype": 0.21,
+		"pressure": 0.22,
+		"chaos": 0.74,
+		"brand_code": 0.13
+	},
+	{
+		"id": "T061",
+		"name": "Brookhaven University",
+		"seed": 16,
+		"momentum": 0.22,
+		"hype": 0.20,
+		"pressure": 0.21,
+		"chaos": 0.77,
+		"brand_code": 0.12
+	},
+	{
+		"id": "T062",
+		"name": "Northwind State",
+		"seed": 16,
+		"momentum": 0.21,
+		"hype": 0.19,
+		"pressure": 0.20,
+		"chaos": 0.78,
+		"brand_code": 0.11
+	},
+	{
+		"id": "T063",
+		"name": "Rivermill College",
+		"seed": 16,
+		"momentum": 0.20,
+		"hype": 0.18,
+		"pressure": 0.19,
+		"chaos": 0.79,
+		"brand_code": 0.10
+	},
+	{
+		"id": "T064",
+		"name": "Sunridge Tech",
+		"seed": 16,
+		"momentum": 0.19,
+		"hype": 0.17,
+		"pressure": 0.20,
+		"chaos": 0.80,
+		"brand_code": 0.09
+	}
+]

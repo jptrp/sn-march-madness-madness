@@ -1,0 +1,144 @@
+{
+  "n": 24,
+  "distribution": [
+    {
+      "archetype": "Social Copycat",
+      "count": 9,
+      "pct": 37.5
+    },
+    {
+      "archetype": "Chaos Goblin",
+      "count": 6,
+      "pct": 25.0
+    },
+    {
+      "archetype": "Narrative Romantic",
+      "count": 6,
+      "pct": 25.0
+    },
+    {
+      "archetype": "Brand Worshipper",
+      "count": 3,
+      "pct": 12.5
+    }
+  ],
+  "avg_scores": {
+    "overconfidence": 0.814,
+    "chaos_addiction": 0.108,
+    "narrative_bias": 0.546,
+    "brand_bias": 0.605,
+    "collapse_risk": 0.556
+  },
+  "top3": [
+    {
+      "seed": 118,
+      "archetype": "Chaos Goblin",
+      "headline": "SPREADSHEET LIAR ENERGY DETECTED.",
+      "shareability_score": 0.5000454769989492,
+      "breakdown": {
+        "meme_axis": 0.6545023616734147,
+        "irony": 0.6545023616734147,
+        "chaos_pop": 0.30363618662039726,
+        "brand_pop": 0.5515232974910395,
+        "story_pop": 0.41798095238095245,
+        "roast_density": 0.7928571428571428,
+        "headline_bonus": 0.06,
+        "archetype_bonus": 0.16
+      },
+      "scores": {
+        "overconfidence": 0.864005376344086,
+        "chaos_addiction": 0.19192857142857145,
+        "brand_bias": 0.5410317460317461,
+        "narrative_bias": 0.5224761904761905,
+        "collapse_risk": 0.6545023616734147
+      }
+    },
+    {
+      "seed": 106,
+      "archetype": "Narrative Romantic",
+      "headline": "SPREADSHEET LIAR ENERGY DETECTED.",
+      "shareability_score": 0.4945434016561103,
+      "breakdown": {
+        "meme_axis": 0.6072086720867209,
+        "irony": 0.5260188933873149,
+        "chaos_pop": 0.18466092153460584,
+        "brand_pop": 0.6072086720867209,
+        "story_pop": 0.44441904761904766,
+        "roast_density": 0.9071428571428571,
+        "headline_bonus": 0.06,
+        "archetype_bonus": 0.16
+      },
+      "scores": {
+        "overconfidence": 0.8613211382113821,
+        "chaos_addiction": 0.08828571428571429,
+        "brand_bias": 0.6213492063492064,
+        "narrative_bias": 0.5555238095238095,
+        "collapse_risk": 0.5260188933873149
+      }
+    },
+    {
+      "seed": 119,
+      "archetype": "Narrative Romantic",
+      "headline": "SPREADSHEET LIAR ENERGY DETECTED.",
+      "shareability_score": 0.49313400713321764,
+      "breakdown": {
+        "meme_axis": 0.6104855555555555,
+        "irony": 0.48937415654520966,
+        "chaos_pop": 0.1426819741661848,
+        "brand_pop": 0.6104855555555555,
+        "story_pop": 0.45094603174603176,
+        "roast_density": 0.9071428571428571,
+        "headline_bonus": 0.06,
+        "archetype_bonus": 0.16
+      },
+      "scores": {
+        "overconfidence": 0.79715,
+        "chaos_addiction": 0.04978571428571429,
+        "brand_bias": 0.6443650793650794,
+        "narrative_bias": 0.5636825396825397,
+        "collapse_risk": 0.48937415654520966
+      }
+    }
+  ],
+  "thresholds": {
+    "oc_p75": 0.8288225562488183,
+    "chaos_p75": 0.12023214285714287,
+    "narr_p75": 0.5511904761904761,
+    "brand_p75": 0.6167857142857144,
+    "collapse_p25": 0.5390603913630234,
+    "collapse_p75": 0.5727981612685564,
+    "chaos_p25": 0.0880357142857143
+  },
+  "superlatives": {
+    "most_chaos": {
+      "seed": 118,
+      "archetype": "Chaos Goblin",
+      "value": 0.19192857142857145
+    },
+    "most_narrative": {
+      "seed": 119,
+      "archetype": "Narrative Romantic",
+      "value": 0.5636825396825397
+    },
+    "most_brand": {
+      "seed": 104,
+      "archetype": "Narrative Romantic",
+      "value": 0.6451587301587302
+    },
+    "most_overconfident": {
+      "seed": 118,
+      "archetype": "Chaos Goblin",
+      "value": 0.864005376344086
+    },
+    "quiet_assassin": {
+      "seed": 104,
+      "archetype": "Narrative Romantic",
+      "value": 0.48569500674763877
+    },
+    "safest_but_dead": {
+      "seed": 118,
+      "archetype": "Chaos Goblin",
+      "value": 1.2343332142390717
+    }
+  }
+}

@@ -1,0 +1,1454 @@
+{
+  "games": [
+    {
+      "slot": "R1-G01",
+      "round": 1,
+      "team_a": {
+        "id": "T001",
+        "name": "Northbridge University",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T061",
+        "name": "Brookhaven University",
+        "seed": 16
+      },
+      "winner": {
+        "id": "T001",
+        "name": "Northbridge University",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R1-G02",
+      "round": 1,
+      "team_a": {
+        "id": "T029",
+        "name": "Fairview University",
+        "seed": 8
+      },
+      "team_b": {
+        "id": "T033",
+        "name": "Kingsford University",
+        "seed": 9
+      },
+      "winner": {
+        "id": "T033",
+        "name": "Kingsford University",
+        "seed": 9
+      },
+      "reason_tags": [
+        "upset",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G03",
+      "round": 1,
+      "team_a": {
+        "id": "T017",
+        "name": "Elmwood University",
+        "seed": 5
+      },
+      "team_b": {
+        "id": "T045",
+        "name": "Glenhaven University",
+        "seed": 12
+      },
+      "winner": {
+        "id": "T017",
+        "name": "Elmwood University",
+        "seed": 5
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G04",
+      "round": 1,
+      "team_a": {
+        "id": "T013",
+        "name": "Westmoor University",
+        "seed": 4
+      },
+      "team_b": {
+        "id": "T049",
+        "name": "Harborcrest University",
+        "seed": 13
+      },
+      "winner": {
+        "id": "T013",
+        "name": "Westmoor University",
+        "seed": 4
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G05",
+      "round": 1,
+      "team_a": {
+        "id": "T021",
+        "name": "Arrowhead University",
+        "seed": 6
+      },
+      "team_b": {
+        "id": "T041",
+        "name": "Whitmore University",
+        "seed": 11
+      },
+      "winner": {
+        "id": "T021",
+        "name": "Arrowhead University",
+        "seed": 6
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G06",
+      "round": 1,
+      "team_a": {
+        "id": "T009",
+        "name": "Summit Ridge University",
+        "seed": 3
+      },
+      "team_b": {
+        "id": "T053",
+        "name": "Redcrest University",
+        "seed": 14
+      },
+      "winner": {
+        "id": "T009",
+        "name": "Summit Ridge University",
+        "seed": 3
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G07",
+      "round": 1,
+      "team_a": {
+        "id": "T025",
+        "name": "Ashbury University",
+        "seed": 7
+      },
+      "team_b": {
+        "id": "T037",
+        "name": "Oakridge University",
+        "seed": 10
+      },
+      "winner": {
+        "id": "T025",
+        "name": "Ashbury University",
+        "seed": 7
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G08",
+      "round": 1,
+      "team_a": {
+        "id": "T005",
+        "name": "Lakeview Institute",
+        "seed": 2
+      },
+      "team_b": {
+        "id": "T057",
+        "name": "Southport University",
+        "seed": 15
+      },
+      "winner": {
+        "id": "T005",
+        "name": "Lakeview Institute",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R1-G09",
+      "round": 1,
+      "team_a": {
+        "id": "T002",
+        "name": "Silver Coast State",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T062",
+        "name": "Northwind State",
+        "seed": 16
+      },
+      "winner": {
+        "id": "T002",
+        "name": "Silver Coast State",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R1-G10",
+      "round": 1,
+      "team_a": {
+        "id": "T030",
+        "name": "Ridgeway State",
+        "seed": 8
+      },
+      "team_b": {
+        "id": "T034",
+        "name": "Graystone State",
+        "seed": 9
+      },
+      "winner": {
+        "id": "T034",
+        "name": "Graystone State",
+        "seed": 9
+      },
+      "reason_tags": [
+        "upset",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G11",
+      "round": 1,
+      "team_a": {
+        "id": "T018",
+        "name": "Ironwood State",
+        "seed": 5
+      },
+      "team_b": {
+        "id": "T046",
+        "name": "Briarwood State",
+        "seed": 12
+      },
+      "winner": {
+        "id": "T018",
+        "name": "Ironwood State",
+        "seed": 5
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G12",
+      "round": 1,
+      "team_a": {
+        "id": "T014",
+        "name": "Beacon Hill State",
+        "seed": 4
+      },
+      "team_b": {
+        "id": "T050",
+        "name": "Valeforge State",
+        "seed": 13
+      },
+      "winner": {
+        "id": "T014",
+        "name": "Beacon Hill State",
+        "seed": 4
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G13",
+      "round": 1,
+      "team_a": {
+        "id": "T022",
+        "name": "Brookstone State",
+        "seed": 6
+      },
+      "team_b": {
+        "id": "T042",
+        "name": "Foxhall State",
+        "seed": 11
+      },
+      "winner": {
+        "id": "T022",
+        "name": "Brookstone State",
+        "seed": 6
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G14",
+      "round": 1,
+      "team_a": {
+        "id": "T010",
+        "name": "Harborline Tech",
+        "seed": 3
+      },
+      "team_b": {
+        "id": "T054",
+        "name": "Meadowbrook State",
+        "seed": 14
+      },
+      "winner": {
+        "id": "T010",
+        "name": "Harborline Tech",
+        "seed": 3
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G15",
+      "round": 1,
+      "team_a": {
+        "id": "T026",
+        "name": "Stonebridge State",
+        "seed": 7
+      },
+      "team_b": {
+        "id": "T038",
+        "name": "Seabrook State",
+        "seed": 10
+      },
+      "winner": {
+        "id": "T038",
+        "name": "Seabrook State",
+        "seed": 10
+      },
+      "reason_tags": [
+        "upset",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G16",
+      "round": 1,
+      "team_a": {
+        "id": "T006",
+        "name": "Red Hollow University",
+        "seed": 2
+      },
+      "team_b": {
+        "id": "T058",
+        "name": "Timberline State",
+        "seed": 15
+      },
+      "winner": {
+        "id": "T006",
+        "name": "Red Hollow University",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R1-G17",
+      "round": 1,
+      "team_a": {
+        "id": "T003",
+        "name": "St. Alder College",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T063",
+        "name": "Rivermill College",
+        "seed": 16
+      },
+      "winner": {
+        "id": "T003",
+        "name": "St. Alder College",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G18",
+      "round": 1,
+      "team_a": {
+        "id": "T031",
+        "name": "Clearwater College",
+        "seed": 8
+      },
+      "team_b": {
+        "id": "T035",
+        "name": "Orchard College",
+        "seed": 9
+      },
+      "winner": {
+        "id": "T031",
+        "name": "Clearwater College",
+        "seed": 8
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G19",
+      "round": 1,
+      "team_a": {
+        "id": "T019",
+        "name": "Meridian College",
+        "seed": 5
+      },
+      "team_b": {
+        "id": "T047",
+        "name": "Cedarfield College",
+        "seed": 12
+      },
+      "winner": {
+        "id": "T019",
+        "name": "Meridian College",
+        "seed": 5
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G20",
+      "round": 1,
+      "team_a": {
+        "id": "T015",
+        "name": "Cardinal Heights College",
+        "seed": 4
+      },
+      "team_b": {
+        "id": "T051",
+        "name": "Lowland College",
+        "seed": 13
+      },
+      "winner": {
+        "id": "T015",
+        "name": "Cardinal Heights College",
+        "seed": 4
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G21",
+      "round": 1,
+      "team_a": {
+        "id": "T023",
+        "name": "Cascade College",
+        "seed": 6
+      },
+      "team_b": {
+        "id": "T043",
+        "name": "Dunmore College",
+        "seed": 11
+      },
+      "winner": {
+        "id": "T023",
+        "name": "Cascade College",
+        "seed": 6
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G22",
+      "round": 1,
+      "team_a": {
+        "id": "T011",
+        "name": "Pinecrest State",
+        "seed": 3
+      },
+      "team_b": {
+        "id": "T055",
+        "name": "Stonehaven College",
+        "seed": 14
+      },
+      "winner": {
+        "id": "T011",
+        "name": "Pinecrest State",
+        "seed": 3
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G23",
+      "round": 1,
+      "team_a": {
+        "id": "T027",
+        "name": "Northgate College",
+        "seed": 7
+      },
+      "team_b": {
+        "id": "T039",
+        "name": "Larkspur College",
+        "seed": 10
+      },
+      "winner": {
+        "id": "T027",
+        "name": "Northgate College",
+        "seed": 7
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G24",
+      "round": 1,
+      "team_a": {
+        "id": "T007",
+        "name": "Copper Ridge State",
+        "seed": 2
+      },
+      "team_b": {
+        "id": "T059",
+        "name": "Bluewater College",
+        "seed": 15
+      },
+      "winner": {
+        "id": "T007",
+        "name": "Copper Ridge State",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R1-G25",
+      "round": 1,
+      "team_a": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T064",
+        "name": "Sunridge Tech",
+        "seed": 16
+      },
+      "winner": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R1-G26",
+      "round": 1,
+      "team_a": {
+        "id": "T032",
+        "name": "Bellmont Tech",
+        "seed": 8
+      },
+      "team_b": {
+        "id": "T036",
+        "name": "Windermere Tech",
+        "seed": 9
+      },
+      "winner": {
+        "id": "T032",
+        "name": "Bellmont Tech",
+        "seed": 8
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G27",
+      "round": 1,
+      "team_a": {
+        "id": "T020",
+        "name": "Highgate Tech",
+        "seed": 5
+      },
+      "team_b": {
+        "id": "T048",
+        "name": "Millstone Tech",
+        "seed": 12
+      },
+      "winner": {
+        "id": "T020",
+        "name": "Highgate Tech",
+        "seed": 5
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G28",
+      "round": 1,
+      "team_a": {
+        "id": "T016",
+        "name": "Twin River Tech",
+        "seed": 4
+      },
+      "team_b": {
+        "id": "T052",
+        "name": "Pinegate Tech",
+        "seed": 13
+      },
+      "winner": {
+        "id": "T016",
+        "name": "Twin River Tech",
+        "seed": 4
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G29",
+      "round": 1,
+      "team_a": {
+        "id": "T024",
+        "name": "Marlowe Tech",
+        "seed": 6
+      },
+      "team_b": {
+        "id": "T044",
+        "name": "Hawthorne Tech",
+        "seed": 11
+      },
+      "winner": {
+        "id": "T024",
+        "name": "Marlowe Tech",
+        "seed": 6
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G30",
+      "round": 1,
+      "team_a": {
+        "id": "T012",
+        "name": "Royal Plains College",
+        "seed": 3
+      },
+      "team_b": {
+        "id": "T056",
+        "name": "Crestline Tech",
+        "seed": 14
+      },
+      "winner": {
+        "id": "T012",
+        "name": "Royal Plains College",
+        "seed": 3
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G31",
+      "round": 1,
+      "team_a": {
+        "id": "T028",
+        "name": "Sterling Tech",
+        "seed": 7
+      },
+      "team_b": {
+        "id": "T040",
+        "name": "Juniper Tech",
+        "seed": 10
+      },
+      "winner": {
+        "id": "T028",
+        "name": "Sterling Tech",
+        "seed": 7
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R1-G32",
+      "round": 1,
+      "team_a": {
+        "id": "T008",
+        "name": "Eastport College",
+        "seed": 2
+      },
+      "team_b": {
+        "id": "T060",
+        "name": "Goldleaf Tech",
+        "seed": 15
+      },
+      "winner": {
+        "id": "T008",
+        "name": "Eastport College",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R2-G01",
+      "round": 2,
+      "team_a": {
+        "id": "T001",
+        "name": "Northbridge University",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T033",
+        "name": "Kingsford University",
+        "seed": 9
+      },
+      "winner": {
+        "id": "T001",
+        "name": "Northbridge University",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R2-G02",
+      "round": 2,
+      "team_a": {
+        "id": "T017",
+        "name": "Elmwood University",
+        "seed": 5
+      },
+      "team_b": {
+        "id": "T013",
+        "name": "Westmoor University",
+        "seed": 4
+      },
+      "winner": {
+        "id": "T013",
+        "name": "Westmoor University",
+        "seed": 4
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R2-G03",
+      "round": 2,
+      "team_a": {
+        "id": "T021",
+        "name": "Arrowhead University",
+        "seed": 6
+      },
+      "team_b": {
+        "id": "T009",
+        "name": "Summit Ridge University",
+        "seed": 3
+      },
+      "winner": {
+        "id": "T021",
+        "name": "Arrowhead University",
+        "seed": 6
+      },
+      "reason_tags": [
+        "upset",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R2-G04",
+      "round": 2,
+      "team_a": {
+        "id": "T025",
+        "name": "Ashbury University",
+        "seed": 7
+      },
+      "team_b": {
+        "id": "T005",
+        "name": "Lakeview Institute",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T005",
+        "name": "Lakeview Institute",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R2-G05",
+      "round": 2,
+      "team_a": {
+        "id": "T002",
+        "name": "Silver Coast State",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T034",
+        "name": "Graystone State",
+        "seed": 9
+      },
+      "winner": {
+        "id": "T002",
+        "name": "Silver Coast State",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R2-G06",
+      "round": 2,
+      "team_a": {
+        "id": "T018",
+        "name": "Ironwood State",
+        "seed": 5
+      },
+      "team_b": {
+        "id": "T014",
+        "name": "Beacon Hill State",
+        "seed": 4
+      },
+      "winner": {
+        "id": "T014",
+        "name": "Beacon Hill State",
+        "seed": 4
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R2-G07",
+      "round": 2,
+      "team_a": {
+        "id": "T022",
+        "name": "Brookstone State",
+        "seed": 6
+      },
+      "team_b": {
+        "id": "T010",
+        "name": "Harborline Tech",
+        "seed": 3
+      },
+      "winner": {
+        "id": "T010",
+        "name": "Harborline Tech",
+        "seed": 3
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R2-G08",
+      "round": 2,
+      "team_a": {
+        "id": "T038",
+        "name": "Seabrook State",
+        "seed": 10
+      },
+      "team_b": {
+        "id": "T006",
+        "name": "Red Hollow University",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T006",
+        "name": "Red Hollow University",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R2-G09",
+      "round": 2,
+      "team_a": {
+        "id": "T003",
+        "name": "St. Alder College",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T031",
+        "name": "Clearwater College",
+        "seed": 8
+      },
+      "winner": {
+        "id": "T003",
+        "name": "St. Alder College",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R2-G10",
+      "round": 2,
+      "team_a": {
+        "id": "T019",
+        "name": "Meridian College",
+        "seed": 5
+      },
+      "team_b": {
+        "id": "T015",
+        "name": "Cardinal Heights College",
+        "seed": 4
+      },
+      "winner": {
+        "id": "T015",
+        "name": "Cardinal Heights College",
+        "seed": 4
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R2-G11",
+      "round": 2,
+      "team_a": {
+        "id": "T023",
+        "name": "Cascade College",
+        "seed": 6
+      },
+      "team_b": {
+        "id": "T011",
+        "name": "Pinecrest State",
+        "seed": 3
+      },
+      "winner": {
+        "id": "T011",
+        "name": "Pinecrest State",
+        "seed": 3
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R2-G12",
+      "round": 2,
+      "team_a": {
+        "id": "T027",
+        "name": "Northgate College",
+        "seed": 7
+      },
+      "team_b": {
+        "id": "T007",
+        "name": "Copper Ridge State",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T007",
+        "name": "Copper Ridge State",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R2-G13",
+      "round": 2,
+      "team_a": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T032",
+        "name": "Bellmont Tech",
+        "seed": 8
+      },
+      "winner": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R2-G14",
+      "round": 2,
+      "team_a": {
+        "id": "T020",
+        "name": "Highgate Tech",
+        "seed": 5
+      },
+      "team_b": {
+        "id": "T016",
+        "name": "Twin River Tech",
+        "seed": 4
+      },
+      "winner": {
+        "id": "T016",
+        "name": "Twin River Tech",
+        "seed": 4
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R2-G15",
+      "round": 2,
+      "team_a": {
+        "id": "T024",
+        "name": "Marlowe Tech",
+        "seed": 6
+      },
+      "team_b": {
+        "id": "T012",
+        "name": "Royal Plains College",
+        "seed": 3
+      },
+      "winner": {
+        "id": "T024",
+        "name": "Marlowe Tech",
+        "seed": 6
+      },
+      "reason_tags": [
+        "upset",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R2-G16",
+      "round": 2,
+      "team_a": {
+        "id": "T028",
+        "name": "Sterling Tech",
+        "seed": 7
+      },
+      "team_b": {
+        "id": "T008",
+        "name": "Eastport College",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T008",
+        "name": "Eastport College",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R3-G01",
+      "round": 3,
+      "team_a": {
+        "id": "T001",
+        "name": "Northbridge University",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T013",
+        "name": "Westmoor University",
+        "seed": 4
+      },
+      "winner": {
+        "id": "T001",
+        "name": "Northbridge University",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R3-G02",
+      "round": 3,
+      "team_a": {
+        "id": "T021",
+        "name": "Arrowhead University",
+        "seed": 6
+      },
+      "team_b": {
+        "id": "T005",
+        "name": "Lakeview Institute",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T005",
+        "name": "Lakeview Institute",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R3-G03",
+      "round": 3,
+      "team_a": {
+        "id": "T002",
+        "name": "Silver Coast State",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T014",
+        "name": "Beacon Hill State",
+        "seed": 4
+      },
+      "winner": {
+        "id": "T002",
+        "name": "Silver Coast State",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R3-G04",
+      "round": 3,
+      "team_a": {
+        "id": "T010",
+        "name": "Harborline Tech",
+        "seed": 3
+      },
+      "team_b": {
+        "id": "T006",
+        "name": "Red Hollow University",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T006",
+        "name": "Red Hollow University",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R3-G05",
+      "round": 3,
+      "team_a": {
+        "id": "T003",
+        "name": "St. Alder College",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T015",
+        "name": "Cardinal Heights College",
+        "seed": 4
+      },
+      "winner": {
+        "id": "T003",
+        "name": "St. Alder College",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R3-G06",
+      "round": 3,
+      "team_a": {
+        "id": "T011",
+        "name": "Pinecrest State",
+        "seed": 3
+      },
+      "team_b": {
+        "id": "T007",
+        "name": "Copper Ridge State",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T007",
+        "name": "Copper Ridge State",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R3-G07",
+      "round": 3,
+      "team_a": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T016",
+        "name": "Twin River Tech",
+        "seed": 4
+      },
+      "winner": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R3-G08",
+      "round": 3,
+      "team_a": {
+        "id": "T024",
+        "name": "Marlowe Tech",
+        "seed": 6
+      },
+      "team_b": {
+        "id": "T008",
+        "name": "Eastport College",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T008",
+        "name": "Eastport College",
+        "seed": 2
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R4-G01",
+      "round": 4,
+      "team_a": {
+        "id": "T001",
+        "name": "Northbridge University",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T005",
+        "name": "Lakeview Institute",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T001",
+        "name": "Northbridge University",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R4-G02",
+      "round": 4,
+      "team_a": {
+        "id": "T002",
+        "name": "Silver Coast State",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T006",
+        "name": "Red Hollow University",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T006",
+        "name": "Red Hollow University",
+        "seed": 2
+      },
+      "reason_tags": [
+        "upset",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R4-G03",
+      "round": 4,
+      "team_a": {
+        "id": "T003",
+        "name": "St. Alder College",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T007",
+        "name": "Copper Ridge State",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T003",
+        "name": "St. Alder College",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "momentum"
+      ]
+    },
+    {
+      "slot": "R4-G04",
+      "round": 4,
+      "team_a": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T008",
+        "name": "Eastport College",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R5-G01",
+      "round": 5,
+      "team_a": {
+        "id": "T001",
+        "name": "Northbridge University",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T006",
+        "name": "Red Hollow University",
+        "seed": 2
+      },
+      "winner": {
+        "id": "T001",
+        "name": "Northbridge University",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R5-G02",
+      "round": 5,
+      "team_a": {
+        "id": "T003",
+        "name": "St. Alder College",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "winner": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand"
+      ]
+    },
+    {
+      "slot": "R6-G01",
+      "round": 6,
+      "team_a": {
+        "id": "T001",
+        "name": "Northbridge University",
+        "seed": 1
+      },
+      "team_b": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "winner": {
+        "id": "T004",
+        "name": "Granite Valley Tech",
+        "seed": 1
+      },
+      "reason_tags": [
+        "favorite",
+        "brand",
+        "choke"
+      ]
+    }
+  ]
+}

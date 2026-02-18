@@ -1,0 +1,14 @@
+{
+  "archetype": "Spreadsheet Liar",
+  "scores": {
+    "overconfidence": 0.795188888888889,
+    "chaos_addiction": 0.04850000000000001,
+    "brand_bias": 0.6451587301587302,
+    "narrative_bias": 0.5591111111111112,
+    "collapse_risk": 0.48569500674763877
+  },
+  "reasons": [
+    "You avoided upsets like they were a malware attachment.",
+    "Your confidence is louder than your math."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "archetype": "Spreadsheet Liar",
+  "scores": {
+    "overconfidence": 0.7808854166666667,
+    "chaos_addiction": 0.08407142857142857,
+    "brand_bias": 0.606031746031746,
+    "narrative_bias": 0.5529206349206349,
+    "collapse_risk": 0.5521406882591098
+  },
+  "reasons": [
+    "You avoided upsets like they were a malware attachment.",
+    "Your confidence is louder than your math.",
+    "You didn't just pick chaos-you hosted it."
+  ]
+}

@@ -1,0 +1,9 @@
+[project]
+name = "sn-march-madness-madness"
+version = "0.1.0"
+description = "Signal March Madness Madness - your bracket is a personality test."
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
