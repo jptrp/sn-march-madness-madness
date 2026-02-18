@@ -22,7 +22,17 @@ pip install -r requirements.txt
 If you don’t have requirements.txt, you can usually run with standard library only (depends on your current code).
 
 ---
+## Quick Demo
 
+One command to generate a 24-person office pool and see the Slack post:
+
+```bash
+python run.py --force --seed random --pool 24 --roast normal && cat output/sharepack/POST.txt
+```
+
+This outputs the shareable post you'd paste in Slack. Perfect for testing.
+
+---
 ## One Card (single seed)
 
 ```bash
