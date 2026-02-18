@@ -183,6 +183,7 @@ def main() -> None:
 	if args.seed == "random":
 		resolved_seed = int(time.time() * 1000) % 1_000_000_000
 		print(f"[Signal] Generated random seed: {resolved_seed}")
+		print(f"[Signal] Card: output/share_card_{resolved_seed}.txt")
 	else:
 		try:
 			resolved_seed = int(args.seed)
