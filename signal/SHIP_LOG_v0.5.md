@@ -146,3 +146,6 @@ I am explicitly not tweaking anything tonight.
 Future move:
 - Write an agent exploration brief for UI concepts only.
 - No code changes until that brief exists.
+
+Brief location:
+- signal/AI_OPERATOR_UI_BRIEF.md

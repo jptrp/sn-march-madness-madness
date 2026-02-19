@@ -87,8 +87,3 @@ git push
 
 ---
 
-## Optional nice-to-have (viral README energy)
-
-Add 1 screenshot to the README later: paste one share card + pool card as code blocks.
-
-If you want your next move: we can add a --post-only flag so you can regenerate just the Slack post from an existing run without re-simming anything.
