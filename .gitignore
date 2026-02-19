@@ -12,9 +12,6 @@ venv/
 output/
 sharepack/
 
-# Signal captures (development)
-signal/
-
 # OS / editor
 .DS_Store
 .vscode/
